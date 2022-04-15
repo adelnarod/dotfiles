@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adelnarod@gmail.com
+	name = Adel Narod
